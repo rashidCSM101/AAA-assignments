@@ -16,4 +16,4 @@ int main() {
     return 0;
 }
 // Complexity: O(2n), where n is the number of term to find.
-// time complexity: O(2 the power n)
+// time complexity: O(2 power n)
